@@ -15,8 +15,8 @@ Step 7: Print the results.<br>
 
 ## Program :
 ```
-Developed By: Karthikeyan R
-Reg.No      :212222240046
+Developed By: CHANDRU V
+Reg.No      :212222040029
 ```
 ```
 # Importing Library
